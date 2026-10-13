@@ -1,4 +1,4 @@
-e # Site settings
+# Site settings
 title: Mackenzie's Portfolio test 1
 description: Mackenzie's Portfolio test 2
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
